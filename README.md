@@ -1,3 +1,5 @@
+ENYX Therapeutics, LLC, is an early stage biotechnology company focused on using gene therapy technologies to treat hereditary disorders of unmet medical needs. ENYX was founded in January 2022 by R. Crystal, Chairman, Department of Genetic Medicine at Weill Cornell, one of the pioneers of in vivo gene therapy.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
