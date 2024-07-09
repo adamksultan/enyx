@@ -42,6 +42,14 @@ return (
       <br />
     </p>
   </aside>
+  <div className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
+  <p className="justify-end text-base-content">
+    Terms of Use
+  </p>
+  <p className="justify-end text-base-content">
+    Privacy Policy
+  </p>
+  </div>
 </footer>
 </div>
  )
