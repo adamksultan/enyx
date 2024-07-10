@@ -4,18 +4,17 @@ import React from 'react';
 const Footer = () => {
 return (
 <div>
-<footer className="footer bg-blue-800 text-base-content p-10">
+<footer className="footer bg-blue-800 justify-left text-base-content p-10">
   <div>
     <img 
       src="enyxwhitelogo.png"
       alt="Enyx Logo"
-      style={{width: "150px", padding: -2}}
+      className="-ml-6 w-1/5"
     ></img>
-    <h6 className="font-bold">Genetic solutions, lasting cures.</h6>
-    <h6>admin@enyxtherapeutics.com</h6>
-    <h6>(917) 819-1296</h6>
     <h6>106 West 32nd Street</h6>
     <h6>New York, NY, 10001</h6>
+    <h6>(917) 819-1296</h6>
+    <h6>admin@enyxtherapeutics.com</h6>
   </div>
   <nav>
     <h6 className="footer-title">About</h6>
